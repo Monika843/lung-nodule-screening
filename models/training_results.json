@@ -1,0 +1,51 @@
+{
+  "history": {
+    "train_loss": [
+      0.3614144754551706,
+      0.14959856349797476,
+      0.05277681934336821,
+      0.06475825089783896,
+      0.016252991546034105,
+      0.014002775596011253
+    ],
+    "val_accuracy": [
+      0.5,
+      0.5,
+      0.5,
+      0.782608695652174,
+      0.9565217391304348,
+      0.9782608695652174
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.9772727272727273,
+    "precision": 1.0,
+    "sensitivity_recall": 0.9545454545454546,
+    "specificity": 1.0,
+    "f1_score": 0.9767441860465116,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        22,
+        0
+      ],
+      [
+        1,
+        21
+      ]
+    ]
+  },
+  "roc_fpr": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "roc_tpr": [
+    0.0,
+    0.045454545454545456,
+    1.0,
+    1.0
+  ],
+  "note": "Trained on SYNTHETIC demo data. Metrics reflect the demo task difficulty, not real clinical performance."
+}
