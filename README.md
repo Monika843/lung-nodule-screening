@@ -1,6 +1,4 @@
-# Lung Nodule Screening — Demo Build
-
-## ⚠️ Honest status of this build (read this first)
+# Lung Nodule Screening
 
 This is a **complete, working, end-to-end pipeline**:
 preprocessing → DenseNet121 classifier → evaluation → Grad-CAM → Streamlit
