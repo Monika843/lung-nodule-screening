@@ -66,6 +66,7 @@ Open the local URL Streamlit prints (usually `http://localhost:8501`).
 6. Re-run `python src/train.py`. Nothing else in the codebase changes.
 7. Expect training to take meaningfully longer — use Colab GPU, not CPU.
 
+
 ## Project structure
 
 ```
@@ -84,6 +85,8 @@ lung-nodule-screening/
 ├── requirements.txt
 └── README.md
 ```
+PROJECT DEPLOYMENT DEMO:
+[https://lung-nodule-screening-kna4iynp63cnjaqtjbjh3g.streamlit.app/](url)
 
 ## Medical disclaimer
 
